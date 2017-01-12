@@ -125,18 +125,11 @@ Social Media meta tag for Blogger Blogspot
  <meta content='nontonmovieonline@gmail.com' name='email'/>
 <!-- Webmaster meta tag for Blogger Blogspot  -->
    <!-- customer customization -->
-<meta content='L772KgfCKNPHOFjW_P2F1s-6uz6OdYBtA39e8u2hkjE' name='google-site-verification'/>
-<script>
-  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
-  ga(&#39;create&#39;, &#39;UA-61636371-2&#39;, &#39;auto&#39;);
-  ga(&#39;send&#39;, &#39;pageview&#39;);
-</script>
-<meta content='2006F9D2EF740767C5F4DC3FD1C1EEB4' name='msvalidate.01'/>
+<meta content='google-site-verification ' name='google-site-verification'/>
+
+<meta content='bing' name='msvalidate.01'/>
 <meta content='ALEXA VERIFICATION CODE' name='alexaVerifyID'/>
-<meta content='62db0f74898008f8' name='yandex-verification'/>
+<meta content='yandex' name='yandex-verification'/>
 <meta content='PINTEREST VERIFICATION CODE' name='p:domain_verify'/>
 <!-- All In One SEO Pack for Blogger Blogspot -->
 <link expr:href='data:blog.url' hreflang='x-default' rel='alternate'/>
