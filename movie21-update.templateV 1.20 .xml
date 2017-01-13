@@ -139,11 +139,10 @@ Social Media meta tag for Blogger Blogspot
 
 <b:skin><![CDATA[
 /* -----------------------------------------------
-Movie21-update.template.movie
-source template from MovieXpose Blogger Template Style
+Movie21-update.template.movie source 
 Name    : Movie21-update.template.movie
 Author  : movie21-update
-Url     : http://www.Movie21-update.com/
+Url     : https://Movie21-update.blogspot.com/
 Updated by: Movie21-update
 version : 0.1 (beta)
 focus on : responsive template, dekstop, mobile, Tablet 
@@ -8558,7 +8557,7 @@ function showpageCount(json){var thisUrl=home_page_url;var htmlMap=new Array();v
 </div>
 <div class='creditwrap container'>
 <div class='credit col-md-12'>
-Copyright &#169; 2014. <a class='sitename' expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> - All Rights Reserved
+Copyright &#169; 2014. <a class='sitename' expr:href='data:blog.homepageUrl' expr:title='data:blog.title'><data:blog.title/></a> | <a href="https://movie21-update.blogspot.com" target="_blank"> | Free Template |</a>All Rights Reserved
 </div>
 </div>
   </div> <!-- end outer-wrapper -->
